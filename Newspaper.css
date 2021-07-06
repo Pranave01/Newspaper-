@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(235, 230, 230);
+   
+     margin: 20px;
+    padding: 20px;
+
+}
+.line{
+    border-top-style:  solid;
+    border-radius: 25px;
+    margin: left 55px;
+    margin-right: 100px;
+    flex-direction: column;
+}
+.Paragraph{
+    margin-left: 0px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.Date{
+    margin: 5px 15px;
+  
+}
+
+.h1{
+ text-align: center;
+ font-size: 90px;
+ font-weight: bolder;
+ word-spacing: 30px;
+ padding-bottom: 20px;
+}
+.lorem{
+    margin-right: 70px;
+}
+
+ #row3{
+    padding-top: 40px;
+ }
+
+ .line01{
+    border-top-style:  solid;
+    border-radius: 30px;
+    margin: left 70px;
+    margin-right: 70px;
+    flex-direction: column;
+ }
+
+ .smallbox{
+     width: 90px;
+     height: 20px;
+     color: white;
+     text-align: center;
+     margin-left: 3%;
+     background-color:rgb(10, 24, 216)
+     
+    
+ }
+.parag{
+    text-align: justify;
+    
+}
+
+.endpoint{
+    border: 2px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    border-block-end: 0;
+
+}
+.cricket{
+    margin: 3px 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    word-spacing: 2px;
+}
+.astro{
+    margin: 3px 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: left;
+    word-spacing: 2px;
+}
+.modiji{
+    margin: 3px 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: left;
+    text-align: justify;
+    word-spacing: 2px;
+}
+.amet{
+    padding: 0px;
+    margin: 0px;
+   
+}
+.line02{
+    border-top-style:  solid;
+    border-radius: 30px;
+    margin: left 70px;
+    margin-right: 70px;
+    flex-direction: column;
+ }
+ .line03{
+    margin: 10px;
+    border-top-style:  solid;
+    border-radius: 30px;
+    margin: left 50px;
+    margin-right: 70px;
+    flex-direction: column;
+ }
+.amet03{
+    padding: 0px;
+    margin-top:3px ;
+
+}
